@@ -1,0 +1,11 @@
+x = 10;
+y = 20;
+wenn (x < y) {
+    drucke x;
+} sonst {
+    drucke y;
+}
+solange (x < 100) {
+    x = x + 1;
+}
+drucke x;
